@@ -1,0 +1,147 @@
+---
+title: "Que es Google Colab"
+format:
+  beamer:
+    incremental: true   
+editor: visual
+theme: Warsaw 
+lang: es 
+---
+
+
+# Introducción
+
+- Hoy tendremos una introducción a **Google Colab**.
+  - Introducción a Google Colab  
+  - Ventajas de Google Colab  
+  - Creación y configuración de una cuenta  
+
+---
+
+# ¿Qué es Google Colab?
+
+- Google Colab es la abreviatura de **Google Collaboratory**.
+
+- Es un entorno gratuito basado en la nube que permite ejecutar código Python en formato Jupyter Notebook.
+
+---
+
+# ¿Qué es un Jupyter Notebook?
+
+- Un Jupyter Notebook está diseñado para imitar un cuaderno tradicional.
+
+- En un cuaderno normalmente:
+
+  - Escribes algo  
+  - Tomas notas  
+  - Continúas escribiendo  
+  - Agregas más explicaciones  
+
+# ¿Qué es un Jupyter Notebook?
+
+- De manera similar, en un Jupyter Notebook puedes:
+
+  - Escribir código  
+  - Añadir explicaciones  
+  - Documentar cada paso  
+
+
+# ¿Qué es un Jupyter Notebook?
+
+- Esto lo hace ideal para:
+
+  - Análisis de datos  
+  - Aprendizaje automático  
+  - Proyectos de programación que requieren alto poder computacional  
+
+---
+
+# Propósito de Google Colab
+
+- Google Colab permite:
+
+  - Escribir y ejecutar código Python directamente en el navegador  
+  - No instalar software localmente  
+  - No depender de hardware potente  
+  - Guardar automáticamente el trabajo en Google Drive  
+  - Acceder a los archivos desde cualquier lugar  
+
+---
+
+# Nota Importante
+
+- Google Colab es gratuito hasta un límite de recursos.
+
+- Si se necesita mayor capacidad de cómputo, es posible adquirir una suscripción.
+
+- Sin embargo, para la mayoría de trabajos académicos iniciales, la versión gratuita es suficiente.
+
+---
+
+# Ventajas de Google Colab
+
+1. No requiere instalación local
+
+  - Es una plataforma en la nube  
+  - No necesita configuración previa  
+  - No requiere instalación de paquetes básicos  
+
+---
+
+
+# Ventajas de Google Colab
+
+2. Acceso desde cualquier lugar
+
+- Al ser una plataforma en la nube:
+  - Se puede usar desde una laptop  
+  - Desde una computadora de escritorio  
+  - Desde un teléfono móvil  
+  - Desde cualquier dispositivo con sesión iniciada  
+
+---
+
+
+# Ventajas de Google Colab
+
+3. Funcionalidades colaborativas
+
+- Permite que múltiples usuarios:
+  - Trabajen en el mismo notebook  
+  - Realicen ediciones simultáneamente  
+  - Colaboren en tiempo real  
+
+- Es ideal para proyectos en equipo.
+
+---
+
+# Ventajas de Google Colab 
+
+4. Librerías preinstaladas
+
+- Google Colab incluye muchas librerías ya instaladas para:
+  - Análisis de datos  
+  - Aprendizaje automático  
+  - Computación científica  
+
+
+# Ventajas de Google Colab 
+
+4. Librerías preinstaladas
+
+- Esto ahorra:
+  - Tiempo de instalación  
+  - Problemas de dependencias  
+  - Esfuerzo de configuración  
+
+---
+
+# Resumen
+
+- Google Colab es:
+  - Un entorno gratuito basado en la nube  
+  - Diseñado para programación interactiva  
+  - Ideal para análisis de datos   
+  - Accesible desde cualquier lugar  
+  - Potente, colaborativo y fácil de usar  
+---

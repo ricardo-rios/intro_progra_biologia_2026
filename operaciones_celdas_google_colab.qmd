@@ -1,0 +1,125 @@
+---
+title: "Operaciones básicas con celdas en Google Colab"
+format:
+  beamer:
+    incremental: true   
+editor: visual
+theme: Warsaw 
+lang: es 
+---
+
+
+## Introducción
+
+- Hoy estudiaremos algunas **operaciones básicas con celdas** en Google Colab.
+
+- La interfaz del notebook está basada en celdas, por lo que dominar estas operaciones permite trabajar de forma más eficiente.
+
+---
+
+## Importancia de las operaciones con celdas
+
+- Las celdas permiten:
+
+  - Organizar el código  
+  - Editar contenido  
+  - Gestionar notebooks  
+  - Acelerar el flujo de trabajo  
+
+---
+
+## Operaciones básicas
+
+- Las operaciones más comunes son:
+
+  - Agregar una nueva celda  
+  - Eliminar una celda  
+  - Mover una celda  
+  - Ejecutar una celda  
+
+---
+
+## Ejecutar una celda
+
+- Podemos ejecutar una celda mediante:
+  - El botón de ejecución  
+  - El atajo de teclado **Shift + Enter**
+
+
+## Ejercicio 
+
+- Crear dos celdas de código que imprima mensajes en pantalla. 
+
+
+## Agregar celdas 
+
+- Para agregar celdas y otras opciones podemos usar las opciones de menú. 
+
+![](img0003.png){fig-align="center" width="80%"}
+
+
+## Atajos para agregar celdas
+
+- Presionar Esc para salir del modo edición
+
+- Presionar:
+  - A : agrega una celda arriba
+  - B : agrega una celda abajo
+
+
+
+## Eliminar una celda
+
+- Podemos eliminar una celda mediante:
+
+- Botones de la interfaz
+
+
+![](img0004.png){fig-align="center" width="50%"}
+
+
+## Eliminar una celda
+
+- Además, podemos eliminar una celda mediante:
+
+
+- Atajo de teclado:
+
+  - Ctrl + M y luego Z
+
+- Esto elimina la celda seleccionada.
+
+
+
+## Mover celdas
+
+- Podemos reorganizar el notebook moviendo celdas:
+
+  - Con los botones de flechas
+
+![](img0005.png){fig-align="center" width="50%"}
+
+
+
+## Mover celdas
+
+- Además podemos reorganizar el notebook moviendo celdas:
+  - Con atajos de teclado
+
+
+
+
+## Atajos para mover celdas
+
+- Ctrl + M + K : mover celda hacia arriba
+
+- Ctrl + M + J → mover celda hacia abajo
+
+- Esto evita copiar y pegar contenido.
+
+
+## Ejercicio 
+
+- Cree tres celdas de código contiguas y práctique las operaciones de celdas 
+anteriores.
+

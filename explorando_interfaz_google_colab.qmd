@@ -1,0 +1,174 @@
+---
+title: "Explorando la interfaz de Google Colab"
+format:
+  beamer:
+    incremental: true   
+editor: visual
+theme: Warsaw 
+lang: es 
+---
+
+## Exploración inicial
+
+Abrimos Google Colab y observamos sus opciones principales.
+
+------------------------------------------------------------------------
+
+## Menú Archivo
+
+-   En **Archivo** podemos:
+    -   Crear un nuevo notebook\
+    -   Abrir notebooks existentes\
+    -   Subir notebooks desde la computadora\
+    -   Importar desde GitHub o Google Drive\
+    -   Guardar copias en Drive o GitHub\
+    -   Descargar el notebook en formato `.ipynb` o `.py`
+
+------------------------------------------------------------------------
+
+## ¿Cómo es un Notebook?
+
+-   Un notebook contiene:
+    -   Texto descriptivo\
+    -   Bloques de código\
+    -   Explicaciones intercaladas
+-   Funciona como un cuaderno dividido en secciones.
+
+------------------------------------------------------------------------
+
+## Menú Editar
+
+-   Permite:
+    -   Seleccionar celdas\
+    -   Cortar, copiar y pegar\
+    -   Buscar y reemplazar texto\
+    -   Acceder a configuraciones del notebook
+
+------------------------------------------------------------------------
+
+## Runtime (Entorno de ejecución)
+
+-   Podemos:
+    -   Seleccionar Python 3 (No modificar)
+    -   Elegir hardware: CPU, GPU o TPU (No modificar)
+    -   Cambiar el tipo de runtime
+
+------------------------------------------------------------------------
+
+## Menú Insertar
+
+-   Permite insertar:
+    -   Celda de código\
+    -   Celda de texto\
+    -   Encabezados de sección
+
+## Menú Insertar
+
+-   También podemos:
+    -   Mover celdas\
+    -   Eliminar celdas\
+    -   Ordenarlas
+
+------------------------------------------------------------------------
+
+## Opciones de Ejecución
+
+-   En Runtime podemos:
+    -   Ejecutar todas las celdas\
+    -   Ejecutar celdas anteriores\
+    -   Ejecutar celdas seleccionadas
+
+------------------------------------------------------------------------
+
+## Herramientas y Configuración
+
+-   En **Tools** y **Settings** podemos:
+    -   Cambiar el tema (claro, oscuro o adaptativo)\
+    -   Modificar tamaño de fuente\
+    -   Mostrar números de línea\
+    -   Ajustar indentación\
+    -   Configurar asistencia de escritura
+
+------------------------------------------------------------------------
+
+## Compartir Notebook
+
+-   Podemos:
+    -   Compartir el notebook mediante enlace\
+    -   Permitir colaboración en tiempo real
+
+------------------------------------------------------------------------
+
+## Tabla de Contenidos
+
+-   La tabla de contenidos:
+    -   Muestra los encabezados del notebook\
+    -   Permite navegación rápida entre secciones
+
+------------------------------------------------------------------------
+
+## Búsqueda y Variables
+
+-   Google Colab permite:
+    -   Buscar texto dentro del notebook\
+    -   Visualizar variables definidas\
+    -   Gestionar claves secretas para proteger información sensible
+
+------------------------------------------------------------------------
+
+## Archivos y Datos
+
+-   Podemos:
+    -   Subir archivos al entorno\
+    -   Montar Google Drive\
+    -   Explorar datos temporales\
+    -   Mostrar archivos ocultos
+
+------------------------------------------------------------------------
+
+## Creando tu primer Notebook
+
+-   Creamos un notebook nuevo en Google Drive.
+
+-   Luego cambiamos el nombre del archivo.
+
+    -   Ejemplo: **clase_dia_mes_año**
+
+------------------------------------------------------------------------
+
+## Tu primer código
+
+-   En una celda de código agregar el siguiente código.
+
+------------------------------------------------------------------------
+
+## Tu primer código
+
+```{python}
+#| echo: true
+#| eval: false 
+print('Hola Mundo')
+```
+
+## Tu primer código
+
+-   El resultado al ejecutar la celda seria el siguiente.
+
+------------------------------------------------------------------------
+
+## Tu primer código
+
+```{python}
+print('Hola Mundo')
+```
+
+------------------------------------------------------------------------
+
+
+## Práctica 
+
+- Al final de lo hecho anteriormente debes de llegar a un archivo parecido a:
+  - codigo001.ipynb 
+
+
+
