@@ -15,7 +15,6 @@ lang: es
     -   Permiten organizar el código y la documentación\
     -   Representan la estructura modular del notebook
 
-
 ## Importancia de las celdas
 
 -   Las celdas permiten:
@@ -23,8 +22,6 @@ lang: es
     -   Organizar el flujo de trabajo\
     -   Facilitar la colaboración\
     -   Mejorar la documentación
-
-
 
 ## Tipos de celdas
 
@@ -83,8 +80,6 @@ print("Hola Mundo")
 
 \[Enlace a Google\](https://www.google.com/)
 
-
-
 ## Celda Markdown
 
 Mencionar que se puede usar el siguiente menú para escribir código Markdown.
@@ -93,23 +88,20 @@ Mencionar que se puede usar el siguiente menú para escribir código Markdown.
 
 ## Explorando celdas en Colab
 
-- En un notebook podemos observar múltiples celdas.
+-   En un notebook podemos observar múltiples celdas.
 
-- Cada una representa una unidad modular de contenido.
-
+-   Cada una representa una unidad modular de contenido.
 
 ## Beneficios de la estructura por celdas
 
-- Las celdas permiten:
-  - Organización clara del código
-  - Mejor lectura y comprensión
-  - Documentación efectiva
-  - Trabajo colaborativo
-  
+-   Las celdas permiten:
+    -   Organización clara del código
+    -   Mejor lectura y comprensión
+    -   Documentación efectiva
+    -   Trabajo colaborativo
+
 ## Práctica
 
-- Replicar el contenido del jupyter notebook: 
-  - codigo002.ipynb 
-- Usar la opción Table of Contents del menú View para poner los encabezados
-  de primer nivel. 
-  
+-   Replicar el contenido del jupyter notebook:
+    -   ejemplo_uso_google_colab.ipynb
+-   Usar la opción Table of Contents del menú View para poner los encabezados de primer nivel.

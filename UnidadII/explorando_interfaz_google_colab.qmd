@@ -164,11 +164,7 @@ print('Hola Mundo')
 
 ------------------------------------------------------------------------
 
+## Práctica
 
-## Práctica 
-
-- Al final de lo hecho anteriormente debes de llegar a un archivo parecido a:
-  - codigo001.ipynb 
-
-
-
+-   Al final de lo hecho anteriormente debes de llegar a un archivo parecido a:
+    -   hola_mundo.ipynb
