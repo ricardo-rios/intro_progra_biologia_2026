@@ -20,3 +20,4 @@ editor: visual
 2.  variables.ipynb
 3.  tipos_de_datos.ipynb
 4.  conversion_de_tipos.ipynb
+5.  operadores.ipynb 
